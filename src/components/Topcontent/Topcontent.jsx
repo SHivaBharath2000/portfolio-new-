@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll'
-import "./topcontent.css"
+import "./Topcontent.css"
 
 export default function Topcontent() {
   return (
